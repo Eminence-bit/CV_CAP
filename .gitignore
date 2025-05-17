@@ -27,7 +27,8 @@ node_modules/
 npm-debug.log
 yarn-error.log
 yarn-debug.log
-
+package-lock.json
+package-lock.json.*
 # React build
 frontend/build/
 
